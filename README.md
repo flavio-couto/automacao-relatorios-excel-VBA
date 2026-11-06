@@ -2,16 +2,16 @@
 
 Desenvolvi uma solução de automação para otimizar o processo de atualização e geração de relatórios gerenciais.
 
-O projeto utiliza VBA para integrar diferentes etapas, desde a atualização das bases de dados até a geração da apresentação em Power Point.
+O projeto utiliza VBA para integrar diferentes etapas entre o Excel, Power Point e pastas de rede. Desde a atualização das bases de dados até a geração dos arquivos finais.
 
 **Principais funcionalidades:**
 
 - Atualiza automaticamente as consultas do Power Query e do Modelo de Dados;
 - Atualiza as tabelas dinâmicas e gráficos;
 - Abre o Power Point;
-- Sincroniza os gráficos e informações com a apresentação no PPT.
+- Sincroniza os gráficos e informações do Excel com a apresentação no PPT.
 - Cria automáticamente as pastas organizadas por ano e mês.
-- Salva uma cópia dos relatórios em Excel e PowerPoint.
+- Salva uma cópia dos relatórios em Excel e PowerPoint na pasta definida.
 
 **Tecnologias utilizadas:**
 
@@ -20,6 +20,14 @@ O projeto utiliza VBA para integrar diferentes etapas, desde a atualização das
 - Power Query (M)
 - Power Pivot
 - PowerPoint
+
+**Estrutura do Projeto:**
+
+O projeto está estruturado em 3 pastas principais
+
+- documentacao: documentação geral do projeto com a explicação do código e das etapas
+- imagens: print das telas que são utilizadas e que sofrem interferência da automação
+- VBA: Etapas do código da automação, dividido em 7 etapas
 
 **Próximos passos:**
 
