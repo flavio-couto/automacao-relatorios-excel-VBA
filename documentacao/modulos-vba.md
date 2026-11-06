@@ -7,7 +7,7 @@ O funcionamento da automação está dividido em 7 etapas:
 
 O processo é iniciado por meio de botões de ação disponíveis na planilha principal do Excel.
 
-![botões](../imagens/Botoes_e_Referencia.png)
+![botões](../imagens/Botoes.png)
 
 ### Etapa 1 — Inicialização
 
@@ -25,7 +25,7 @@ A automação verifica a existência dos diretórios necessários para armazenar
 
 Caso as pastas ainda não existam, elas são criadas automaticamente, seguindo uma organização por ano e mês de referência que estão nas células do Excel.
 
-![Nome Arquivo](../imagens/Botoes_e_Referencia.png)
+![Nome Arquivo](../imagens/Referencias.png)
 
 ### Etapa 4 — Salvamento do relatório Excel
 
